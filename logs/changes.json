@@ -121,3 +121,7 @@
 {"event_type": "modified", "src_path": "/home/ubuntu/bsm/test/testfile.txt", "is_directory": false, "time": "2024-12-22 12:01:41"}
 {"event_type": "closed", "src_path": "/home/ubuntu/bsm/test/testfile.txt", "is_directory": false, "time": "2024-12-22 12:01:41"}
 {"event_type": "modified", "src_path": "/home/ubuntu/bsm/test", "is_directory": true, "time": "2024-12-22 12:01:41"}
+{"event_type": "opened", "src_path": "/home/ubuntu/bsm/test/test_file.txt", "is_directory": false, "time": "2024-12-22 14:28:52"}
+{"event_type": "closed_no_write", "src_path": "/home/ubuntu/bsm/test/test_file.txt", "is_directory": false, "time": "2024-12-22 14:28:52"}
+{"event_type": "opened", "src_path": "/home/ubuntu/bsm/test/testfile.txt", "is_directory": false, "time": "2024-12-22 14:28:52"}
+{"event_type": "closed_no_write", "src_path": "/home/ubuntu/bsm/test/testfile.txt", "is_directory": false, "time": "2024-12-22 14:28:52"}
